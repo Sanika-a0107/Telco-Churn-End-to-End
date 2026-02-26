@@ -1,0 +1,7 @@
+pandas & numpy: Shows you can handle data manipulation.
+
+scikit-learn: Proves you can build Machine Learning models (like your Random Forest).
+
+sqlalchemy & psycopg2-binary: Demonstrates you can connect Python to professional databases like PostgreSQL.
+
+matplotlib & seaborn: Indicates you know how to do technical data visualization within Python code.
