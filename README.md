@@ -32,19 +32,17 @@ Visualized prioritized "Call Lists" for the retention team.
 🛠️ Tech Stack
 💡 Key Business Insights
 Risk Factor: Month-to-month customers are 3x more likely to churn compared to long-term subscribers.
-
 Service Impact: Customers with low satisfaction scores (<3) but high Monthly Charges are at peak risk.
-
 Geographic Trends: Identified specific cities (e.g., Los Angeles) with the highest concentration of high-value at-risk customers.
 
-📂 Repository Structure
-/sql - Database initialization and strategic business queries.
+## 📂 Repository Structure
 
-/scripts - Python source code for data cleaning and ML modeling.
-
-/dashboard - Power BI .pbix file and executive PDF report.
-
-/data - Dataset documentation and output files.
+- `Dashboard/` — Dashboard-related files and visuals
+- `sql/` — SQL scripts and database queries
+- `churn_prediction.pbix` — Power BI dashboard file
+- `main_analysis.py` — Python analysis and churn prediction
+- `requirements.txt` — Python dependencies
+- `telco_churn.sql` — SQL script for churn analysis
 
 🚀 How to Run
 Initialize DB: Run the scripts in the /sql folder within pgAdmin to set up the database.
