@@ -34,9 +34,10 @@ Visualized prioritized "Call Lists" for the retention team.
 Risk Factor: Month-to-month customers are 3x more likely to churn compared to long-term subscribers.
 Service Impact: Customers with low satisfaction scores (<3) but high Monthly Charges are at peak risk.
 Geographic Trends: Identified specific cities (e.g., Los Angeles) with the highest concentration of high-value at-risk customers.
+
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](Dashboard/REPLACE_WITH_YOUR_IMAGE_FILENAME.png)
+![Customer Churn Dashboard](Dashboard/churn_prediction)
 
 ## 📂 Repository Structure
 
