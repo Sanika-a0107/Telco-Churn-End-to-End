@@ -34,6 +34,9 @@ Visualized prioritized "Call Lists" for the retention team.
 Risk Factor: Month-to-month customers are 3x more likely to churn compared to long-term subscribers.
 Service Impact: Customers with low satisfaction scores (<3) but high Monthly Charges are at peak risk.
 Geographic Trends: Identified specific cities (e.g., Los Angeles) with the highest concentration of high-value at-risk customers.
+## 📊 Dashboard Preview
+
+![Customer Churn Dashboard](Dashboard/REPLACE_WITH_YOUR_IMAGE_FILENAME.png)
 
 ## 📂 Repository Structure
 
@@ -51,11 +54,6 @@ Geographic Trends: Identified specific cities (e.g., Los Angeles) with the highe
 3. **Run the Python analysis:** Execute `python main_analysis.py` from the repository root.
 4. **Open the dashboard:** Open `churn_prediction.pbix` in Power BI Desktop
 
-## 📊 Dashboard Preview
-
-![Customer Churn Dashboard](Dashboard/dashboard.png)
-
-[Explore the Power BI dashboard](churn_prediction.pbix)
 
 
 👤 Author
