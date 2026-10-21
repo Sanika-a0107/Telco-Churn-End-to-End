@@ -44,14 +44,13 @@ Geographic Trends: Identified specific cities (e.g., Los Angeles) with the highe
 - `requirements.txt` — Python dependencies
 - `telco_churn.sql` — SQL script for churn analysis
 
-🚀 How to Run
-Initialize DB: Run the scripts in the /sql folder within pgAdmin to set up the database.
 
-Environment: Install dependencies: pip install pandas sqlalchemy scikit-learn psycopg2.
+## 🚀 How to Run
 
-Model: Run python scripts/main_analysis.py to process data and generate predictive scores.
-
-Visualize: Open the Power BI file in /dashboard to explore the interactive dashboard.
+1. **Set up the database:** Run the SQL scripts in the `sql/` folder using PostgreSQL/pgAdmin.
+2. **Install dependencies:** Run `pip install -r requirements.txt`.
+3. **Run the Python analysis:** Execute `python main_analysis.py` from the repository root.
+4. **Open the dashboard:** Open `churn_prediction.pbix` in Power BI Desktop
 
 👤 Author
 Sanika Data Science & Analytics Specialist 
